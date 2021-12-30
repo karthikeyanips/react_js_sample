@@ -7,9 +7,12 @@ Run The Website
           npm start 
 
 Run the API
+
          cd api
          npm start
 
+
 Unit Testing
+
         cd web
         npm run test
